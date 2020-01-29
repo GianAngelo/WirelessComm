@@ -1,6 +1,6 @@
-% Gian Angelo Tria, Joshua Timothy Go 
-% ECE-300 | Communication Theory
-% 12/21/19 
+% Gian Angelo Tria
+% ECE-408 | Wireless Communications
+% 01/29/19 
 
 % Goal: Design and simulate an end to end communication link with Encoding, Modulation, and Equalization in MATLAB.
 
